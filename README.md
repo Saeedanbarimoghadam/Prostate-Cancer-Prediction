@@ -1,1 +1,1 @@
-# Prostate-Cancer-Prediction
+# Prostate Cancer Prediction
